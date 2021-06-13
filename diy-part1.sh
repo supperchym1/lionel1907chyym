@@ -17,3 +17,4 @@
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 sed -i '$a src-git supperchym https://github.com/supperchym/openwrtpackage2' feeds.conf.default
 sed -i '$a src-git kenzo https://github.com/supperchym/small-package;19.07' feeds.conf.default
+sed -i '$a src-git supperchym1 https://github.com/supperchym/openwrtpackage' feeds.conf.default
